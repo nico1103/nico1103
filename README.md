@@ -6,6 +6,7 @@
 - 📺 Loves watching TV Shows to unwind.
 
 ## Skills
+
 - Programming: Python, SQL, HTML, CSS
 - Tools: Git, VSC
 - Mathematics: Calculus, Algebra, Probability & Statistics
