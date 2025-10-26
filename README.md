@@ -7,8 +7,8 @@
 
 ## Skills
 
-- Programming: Python, SQL, HTML, CSS
-- Tools: Git, VSC
+- Programming: C++, Python, SQL, HTML, CSS
+- Tools: Git, VSC, Godot
 - Mathematics: Calculus, Algebra, Probability & Statistics
 - Data Analysis: Pandas, NumPy, Matplotlib
 
